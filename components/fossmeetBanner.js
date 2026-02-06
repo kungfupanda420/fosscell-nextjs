@@ -43,7 +43,7 @@ export default function FossmeetBanner() {
             <span style={{ color: "#FA8860" }}>FOSS</span>
             <span style={{ color: "#ffffff" }}>Meet'26</span>
           </h1>
-          <p style={{ margin: "8px 0 0",color:"#FA8860",fontSize: "20px", opacity: 0.8 }}>27 Feb – 1 Mar</p>
+          <p style={{ margin: "8px 0 0",color:"#FA8860",fontSize: "20px", opacity: 0.8 }}>April 10 - 12, 2026</p>
         </div>
 
         <div style={{
