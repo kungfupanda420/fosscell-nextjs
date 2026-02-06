@@ -6,16 +6,16 @@ import styles from '@/styles/People.module.css'
 
 //B24s
 import Alfin from "@/public/images/Team/Alfin.jpg"
-import AmanTS from "public/images/Team/Aman_T_S.jpeg"
+import AmanTS from "@/public/images/Team/Aman_T_S.jpeg"
 
 import DevaVinod from "@/public/images/Team/Deva_Vinod.jpg"
 import EliasJoby from "@/public/images/Team/Elias_Joby.jpg"
 import IbinuJaleel from "@/public/images/Team/Ibinu_Jaleel.jpg"
 import JefinJoji from "@/public/images/Team/Jefin_Joji.jpg"
-import SharadChandra from "public/images/Team/Sharad_Chandra_M .jpg"
+import SharadChandra from "@/public/images/Team/Sharad_Chandra_M .jpg"
 import ShriramKiran from "@/public/images/Team/Shriram_Kiran.jpg"
 import Harshvardhan from "@/public/images/Team/Harsh.jpg"
-import AmilK from "public/images/Team/Amil_K.jpeg"
+import AmilK from "@/public/images/Team/Amil_K.jpeg"
 
 
 
@@ -23,14 +23,14 @@ import AmilK from "public/images/Team/Amil_K.jpeg"
 //B23s and B22s
 
 import Akhil from "@/public/images/Team/Akhil_T.jpg"
-import AnirudhNambiar from "public/images/Team/Anirudh_Nambiar .jpg"
+import AnirudhNambiar from "@/public/images/Team/Anirudh_Nambiar .jpg"
 import Jumana from "@/public/images/Team/Jumana.jpg"
 import Abhishek from "@/public/images/Team/Abhishek_Mohan_S.jpg"
 import Adil from "@/public/images/Team/Adil_Abdul_Jabbar.jpg"
 import AKSHAY_RAJ_P from "@/public/images/Team/AKSHAY_RAJ_P.jpg"
 import arun_natarajan from "@/public/images/Team/arun_natarajan.jpg"
 import Adithyan from "@/public/images/Team/Adithyan_V.jpg"
-import SahilMuhammed from "public/images/Team/Sahil_Muhammed.jpeg"
+import SahilMuhammed from "@/public/images/Team/Sahil_Muhammed.jpeg"
 import Harshini_Babu from "@/public/images/Team/Harshini_Babu.jpg"
 import noufal_rahim from "@/public/images/Team/noufal_rahim.jpg"
 import Prithvi_G_Bhat from "@/public/images/Team/Prithvi_G_Bhat.jpg"
@@ -38,7 +38,7 @@ import Vinit_Keshri from "@/public/images/Team/Vinit_Keshri.jpg"
 import Vivek from "@/public/images/Team/Vivek.jpg"
 import Arjith_Lal from "@/public/images/Team/Arjith_Lal.jpg"
 import Rehan from "@/public/images/Team/Rehan.jpg"
-import Thiru from "public/images/Team/Thiru.jpg"
+import Thiru from "@/public/images/Team/Thiru.jpg"
 
 
 // B21s
@@ -50,7 +50,7 @@ import Pranav from "@/public/images/Team/Pranav Prashant.jpeg"
 import Hemanth from "@/public/images/Team/Hemanth Chodisetti.jpg"
 
 // B20s
-import Juby from "@/public/images/Team/Juby Johnson.JPG"
+import Juby from "@/public/images/Team/Juby Johnson.jpg"
 import Madhav from "@/public/images/Team/Madhav_Prabhu.jpg"
 import Afthab from "@/public/images/Team/Mohamed_Afthab.jpg"
 import Chacko from "@/public/images/Team/Chacko James.jpeg"
@@ -65,7 +65,7 @@ import Aravind from "@/public/images/Team/Aravind I M.jpeg"
 import Arjun from "@/public/images/Team/Arjun_M_Murali.jpeg"
 import Bhukya from "@/public/images/Team/Bhukya Chetan Ram.jpg"
 import Cliford from "@/public/images/Team/Cliford.jpg"
-import Hadif from "@/public/images/Team/Hadif_Yassin_Hameed.JPG"
+import Hadif from "@/public/images/Team/Hadif_Yassin_Hameed.jpg"
 import JoelJohn from "@/public/images/Team/Joel George John.jpg"
 import John from "@/public/images/Team/John_D.png"
 
@@ -76,7 +76,7 @@ import Simmon from "@/public/images/Team/Simon Shaji.jpeg"
 import Sinadin from "@/public/images/Team/Sinadin Shan.jpg"
 import Sree from "@/public/images/Team/Sreevalsan.jpeg"
 import Vedasree from "@/public/images/Team/Vedasree Rodi.jpeg"
-import Vimal from "@/public/images/Team/Vimal Joseph.JPG"
+import Vimal from "@/public/images/Team/Vimal Joseph.jpg"
 import Nazim from "@/public/images/Team/Nazim Jabir.jpeg"
 import Nithin from "@/public/images/Team/Nithin Manoj.jpeg"
 
